@@ -1,0 +1,3 @@
+# Kattis
+
+Open Kattis Solutions.
